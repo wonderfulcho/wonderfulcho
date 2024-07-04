@@ -1,6 +1,6 @@
 ### 개발자 조서영
 
-My Skill <br>
+<p>My Skill</p>
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
