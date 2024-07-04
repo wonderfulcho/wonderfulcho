@@ -8,7 +8,7 @@ My Skill <br>
   
 </div>
 <div>
-<img src="https://img.shields.io/badge/Javascript-333333?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-333333?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/next.js-006D5C?style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 <div>
